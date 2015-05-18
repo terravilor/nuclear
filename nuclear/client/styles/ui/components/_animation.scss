@@ -27,9 +27,6 @@
 // Thanks, https://github.com/daneden/animate.css
 
 // animate-fade-up, a combination of "fadeOutUp" and "fadeInUp"
-html { // fix webkit translate causing scollbar issue 
-  overflow: hidden;
-}
 @include keyframes(fade-up-enter) {
     0% {
         opacity: 0;

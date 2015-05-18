@@ -1411,7 +1411,7 @@ html {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_scaffolding\.scss}line{font-family:\0000327}}
 body {
   font-family: "Lato", "Helvetica Neue", Arial, sans-serif;
-  font-size: 14px;
+  font-size: 12px;
   line-height: 1.42857;
   color: #767676;
   background-color: #f3f3f3;
@@ -1488,8 +1488,8 @@ img {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_scaffolding\.scss}line{font-family:\00003113}}
 hr {
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 17px;
+  margin-bottom: 17px;
   border: 0;
   border-top: 1px solid #eeeeee;
 }
@@ -1548,8 +1548,8 @@ h6 .small,
 h1, .h1,
 h2, .h2,
 h3, .h3 {
-  margin-top: 20px;
-  margin-bottom: 10px;
+  margin-top: 17px;
+  margin-bottom: 8.5px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_type\.scss}line{font-family:\0000330}}
 h1 small,
@@ -1568,8 +1568,8 @@ h3 .small, .h3 small,
 h4, .h4,
 h5, .h5,
 h6, .h6 {
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-top: 8.5px;
+  margin-bottom: 8.5px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_type\.scss}line{font-family:\0000341}}
 h4 small,
@@ -1586,57 +1586,57 @@ h6 .small, .h6 small,
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_type\.scss}line{font-family:\0000347}}
 h1, .h1 {
-  font-size: 36px;
+  font-size: 31px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_type\.scss}line{font-family:\0000348}}
 h2, .h2 {
-  font-size: 30px;
+  font-size: 25px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_type\.scss}line{font-family:\0000349}}
 h3, .h3 {
-  font-size: 24px;
+  font-size: 21px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_type\.scss}line{font-family:\0000350}}
 h4, .h4 {
-  font-size: 18px;
+  font-size: 15px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_type\.scss}line{font-family:\0000351}}
 h5, .h5 {
-  font-size: 14px;
+  font-size: 12px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_type\.scss}line{font-family:\0000352}}
 h6, .h6 {
-  font-size: 12px;
+  font-size: 11px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_type\.scss}line{font-family:\0000358}}
 p {
-  margin: 0 0 10px;
+  margin: 0 0 8.5px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_type\.scss}line{font-family:\0000362}}
 .lead {
-  margin-bottom: 20px;
-  font-size: 16px;
+  margin-bottom: 17px;
+  font-size: 13px;
   font-weight: 300;
   line-height: 1.4;
 }
 @media (min-width: 768px) {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_type\.scss}line{font-family:\0000362}}
   .lead {
-    font-size: 21px;
+    font-size: 18px;
   }
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_type\.scss}line{font-family:\0000378}}
 small,
 .small {
-  font-size: 85%;
+  font-size: 91%;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_type\.scss}line{font-family:\0000383}}
@@ -1693,7 +1693,7 @@ mark,
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/mixins\/_text-emphasis\.scss}line{font-family:\000035}}
 .text-primary {
-  color: #456;
+  color: #445566;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/mixins\/_text-emphasis\.scss}line{font-family:\000038}}
@@ -1748,7 +1748,7 @@ a.text-danger:hover {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/mixins\/_background-variant\.scss}line{font-family:\000035}}
 .bg-primary {
-  background-color: #456;
+  background-color: #445566;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/mixins\/_background-variant\.scss}line{font-family:\000038}}
@@ -1798,8 +1798,8 @@ a.bg-danger:hover {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_type\.scss}line{font-family:\00003138}}
 .page-header {
-  padding-bottom: 9px;
-  margin: 40px 0 20px;
+  padding-bottom: 7.5px;
+  margin: 34px 0 17px;
   border-bottom: 1px solid #eeeeee;
 }
 
@@ -1807,7 +1807,7 @@ a.bg-danger:hover {
 ul,
 ol {
   margin-top: 0;
-  margin-bottom: 10px;
+  margin-bottom: 8.5px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_type\.scss}line{font-family:\00003153}}
 ul ul,
@@ -1839,7 +1839,7 @@ ol ol {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_type\.scss}line{font-family:\00003185}}
 dl {
   margin-top: 0;
-  margin-bottom: 20px;
+  margin-bottom: 17px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_type\.scss}line{font-family:\00003189}}
@@ -1899,10 +1899,10 @@ abbr[data-original-title] {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_type\.scss}line{font-family:\00003241}}
 blockquote {
-  padding: 10px 20px;
-  margin: 0 0 20px;
-  font-size: 17.5px;
-  border-left: 5px solid #456;
+  padding: 8.5px 17px;
+  margin: 0 0 17px;
+  font-size: 15px;
+  border-left: 5px solid #445566;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_type\.scss}line{font-family:\00003250}}
 blockquote p:last-child,
@@ -1931,7 +1931,7 @@ blockquote .small:before {
 blockquote.pull-right {
   padding-right: 15px;
   padding-left: 0;
-  border-right: 5px solid #456;
+  border-right: 5px solid #445566;
   border-left: 0;
   text-align: right;
 }
@@ -1956,7 +1956,7 @@ blockquote.pull-right .small:after {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_type\.scss}line{font-family:\00003294}}
 address {
-  margin-bottom: 20px;
+  margin-bottom: 17px;
   font-style: normal;
   line-height: 1.42857;
 }
@@ -1998,9 +1998,9 @@ kbd kbd {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_code\.scss}line{font-family:\0000341}}
 pre {
   display: block;
-  padding: 9.5px;
-  margin: 0 0 10px;
-  font-size: 13px;
+  padding: 8px;
+  margin: 0 0 8.5px;
+  font-size: 11px;
   line-height: 1.42857;
   word-break: break-all;
   word-wrap: break-word;
@@ -3426,7 +3426,7 @@ th {
 .table {
   width: 100%;
   max-width: 100%;
-  margin-bottom: 20px;
+  margin-bottom: 17px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_tables\.scss}line{font-family:\0000331}}
 .table > thead > tr > th,
@@ -3626,7 +3626,7 @@ table th[class*="col-"] {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_tables\.scss}line{font-family:\00003171}}
   .table-responsive {
     width: 100%;
-    margin-bottom: 15px;
+    margin-bottom: 12.75px;
     overflow-y: hidden;
     -ms-overflow-style: -ms-autohiding-scrollbar;
     border: 1px solid #ddd;
@@ -3688,8 +3688,8 @@ legend {
   display: block;
   width: 100%;
   padding: 0;
-  margin-bottom: 20px;
-  font-size: 21px;
+  margin-bottom: 17px;
+  font-size: 18px;
   line-height: inherit;
   color: #333333;
   border: 0;
@@ -3749,7 +3749,7 @@ input[type="checkbox"]:focus {
 output {
   display: block;
   padding-top: 7px;
-  font-size: 14px;
+  font-size: 12px;
   line-height: 1.42857;
   color: #555555;
 }
@@ -3758,9 +3758,9 @@ output {
 .form-control {
   display: block;
   width: 100%;
-  height: 34px;
+  height: 31px;
   padding: 6px 12px;
-  font-size: 14px;
+  font-size: 12px;
   line-height: 1.42857;
   color: #555555;
   background-color: #fff;
@@ -3815,7 +3815,7 @@ input[type="date"],
 input[type="time"],
 input[type="datetime-local"],
 input[type="month"] {
-  line-height: 34px;
+  line-height: 31px;
   line-height: 1.42857 \0;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_forms\.scss}line{font-family:\00003186}}
@@ -3834,7 +3834,7 @@ input[type="month"].input-sm,
 .input-group-sm > input[type="month"].form-control,
 .input-group-sm > input[type="month"].input-group-addon,
 .input-group-sm > .input-group-btn > input[type="month"].btn {
-  line-height: 30px;
+  line-height: 28px;
   line-height: 1.5 \0;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_forms\.scss}line{font-family:\00003190}}
@@ -3853,7 +3853,7 @@ input[type="month"].input-lg,
 .input-group-lg > input[type="month"].form-control,
 .input-group-lg > input[type="month"].input-group-addon,
 .input-group-lg > .input-group-btn > input[type="month"].btn {
-  line-height: 46px;
+  line-height: 42px;
   line-height: 1.33 \0;
 }
 
@@ -3933,7 +3933,7 @@ _:-ms-fullscreen.input-lg,
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_forms\.scss}line{font-family:\00003233}}
 .radio label,
 .checkbox label {
-  min-height: 20px;
+  min-height: 17px;
   padding-left: 20px;
   margin-bottom: 0;
   font-weight: normal;
@@ -4016,9 +4016,9 @@ input[type="checkbox"] {
 .input-sm, .input-group-sm > .form-control,
 .input-group-sm > .input-group-addon,
 .input-group-sm > .input-group-btn > .btn, .form-group-sm .form-control {
-  height: 30px;
+  height: 28px;
   padding: 5px 10px;
-  font-size: 12px;
+  font-size: 11px;
   line-height: 1.5;
   border-radius: 2px;
 }
@@ -4027,8 +4027,8 @@ input[type="checkbox"] {
 select.input-sm, .input-group-sm > select.form-control,
 .input-group-sm > select.input-group-addon,
 .input-group-sm > .input-group-btn > select.btn, .form-group-sm .form-control {
-  height: 30px;
-  line-height: 30px;
+  height: 28px;
+  line-height: 28px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/mixins\/_forms\.scss}line{font-family:\0000384}}
@@ -4046,9 +4046,9 @@ select[multiple].input-sm,
 .input-lg, .input-group-lg > .form-control,
 .input-group-lg > .input-group-addon,
 .input-group-lg > .input-group-btn > .btn, .form-group-lg .form-control {
-  height: 46px;
+  height: 42px;
   padding: 10px 16px;
-  font-size: 18px;
+  font-size: 15px;
   line-height: 1.33;
   border-radius: 2px;
 }
@@ -4057,8 +4057,8 @@ select[multiple].input-sm,
 select.input-lg, .input-group-lg > select.form-control,
 .input-group-lg > select.input-group-addon,
 .input-group-lg > .input-group-btn > select.btn, .form-group-lg .form-control {
-  height: 46px;
-  line-height: 46px;
+  height: 42px;
+  line-height: 42px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/mixins\/_forms\.scss}line{font-family:\0000384}}
@@ -4078,7 +4078,7 @@ select[multiple].input-lg,
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_forms\.scss}line{font-family:\00003342}}
 .has-feedback .form-control {
-  padding-right: 42.5px;
+  padding-right: 38.75px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_forms\.scss}line{font-family:\00003347}}
@@ -4088,9 +4088,9 @@ select[multiple].input-lg,
   right: 0;
   z-index: 2;
   display: block;
-  width: 34px;
-  height: 34px;
-  line-height: 34px;
+  width: 31px;
+  height: 31px;
+  line-height: 31px;
   text-align: center;
   pointer-events: none;
 }
@@ -4099,18 +4099,18 @@ select[multiple].input-lg,
 .input-lg + .form-control-feedback, .input-group-lg > .form-control + .form-control-feedback,
 .input-group-lg > .input-group-addon + .form-control-feedback,
 .input-group-lg > .input-group-btn > .btn + .form-control-feedback {
-  width: 46px;
-  height: 46px;
-  line-height: 46px;
+  width: 42px;
+  height: 42px;
+  line-height: 42px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_forms\.scss}line{font-family:\00003364}}
 .input-sm + .form-control-feedback, .input-group-sm > .form-control + .form-control-feedback,
 .input-group-sm > .input-group-addon + .form-control-feedback,
 .input-group-sm > .input-group-btn > .btn + .form-control-feedback {
-  width: 30px;
-  height: 30px;
-  line-height: 30px;
+  width: 28px;
+  height: 28px;
+  line-height: 28px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/mixins\/_forms\.scss}line{font-family:\000038}}
@@ -4211,7 +4211,7 @@ select[multiple].input-lg,
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_forms\.scss}line{font-family:\00003384}}
 .has-feedback label ~ .form-control-feedback {
-  top: 25px;
+  top: 22px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_forms\.scss}line{font-family:\00003387}}
 .has-feedback label.sr-only ~ .form-control-feedback {
@@ -4300,7 +4300,7 @@ select[multiple].input-lg,
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_forms\.scss}line{font-family:\00003515}}
 .form-horizontal .radio,
 .form-horizontal .checkbox {
-  min-height: 27px;
+  min-height: 24px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_forms\.scss}line{font-family:\00003521}}
 .form-horizontal .form-group {
@@ -4354,7 +4354,7 @@ select[multiple].input-lg,
   border: 1px solid transparent;
   white-space: nowrap;
   padding: 6px 12px;
-  font-size: 14px;
+  font-size: 12px;
   line-height: 1.42857;
   border-radius: 2px;
   -webkit-user-select: none;
@@ -4420,7 +4420,7 @@ select[multiple].input-lg,
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_buttons\.scss}line{font-family:\0000363}}
 .btn-primary {
   color: #fff;
-  background-color: #456;
+  background-color: #445566;
   border-color: #3a4857;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/mixins\/_buttons\.scss}line{font-family:\0000311}}
@@ -4435,12 +4435,12 @@ select[multiple].input-lg,
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/mixins\/_buttons\.scss}line{font-family:\0000329}}
 .btn-primary.disabled, .btn-primary.disabled:hover, .btn-primary.disabled:focus, .btn-primary.disabled.focus, .btn-primary.disabled:active, .btn-primary.disabled.active, .btn-primary[disabled], .btn-primary[disabled]:hover, .btn-primary[disabled]:focus, .btn-primary[disabled].focus, .btn-primary[disabled]:active, .btn-primary[disabled].active, fieldset[disabled] .btn-primary, fieldset[disabled] .btn-primary:hover, fieldset[disabled] .btn-primary:focus, fieldset[disabled] .btn-primary.focus, fieldset[disabled] .btn-primary:active, fieldset[disabled] .btn-primary.active {
-  background-color: #456;
+  background-color: #445566;
   border-color: #3a4857;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/mixins\/_buttons\.scss}line{font-family:\0000340}}
 .btn-primary .badge {
-  color: #456;
+  color: #445566;
   background-color: #fff;
 }
 
@@ -4583,7 +4583,7 @@ select[multiple].input-lg,
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_buttons\.scss}line{font-family:\00003127}}
 .btn-lg, .btn-group-lg > .btn {
   padding: 10px 16px;
-  font-size: 18px;
+  font-size: 15px;
   line-height: 1.33;
   border-radius: 2px;
 }
@@ -4591,7 +4591,7 @@ select[multiple].input-lg,
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_buttons\.scss}line{font-family:\00003131}}
 .btn-sm, .btn-group-sm > .btn {
   padding: 5px 10px;
-  font-size: 12px;
+  font-size: 11px;
   line-height: 1.5;
   border-radius: 2px;
 }
@@ -4599,7 +4599,7 @@ select[multiple].input-lg,
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_buttons\.scss}line{font-family:\00003135}}
 .btn-xs, .btn-group-xs > .btn {
   padding: 1px 5px;
-  font-size: 12px;
+  font-size: 11px;
   line-height: 1.5;
   border-radius: 2px;
 }
@@ -4702,7 +4702,7 @@ tbody.collapse.in {
   padding: 5px 0;
   margin: 2px 0 0;
   list-style: none;
-  font-size: 14px;
+  font-size: 12px;
   text-align: left;
   background-color: #fff;
   border: 1px solid #ccc;
@@ -4720,7 +4720,7 @@ tbody.collapse.in {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_dropdowns\.scss}line{font-family:\0000358}}
 .dropdown-menu .divider {
   height: 1px;
-  margin: 9px 0;
+  margin: 7.5px 0;
   overflow: hidden;
   background-color: #e5e5e5;
 }
@@ -4739,7 +4739,7 @@ tbody.collapse.in {
 .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
   text-decoration: none;
   color: #fff;
-  background-color: #456;
+  background-color: #445566;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_dropdowns\.scss}line{font-family:\0000386}}
@@ -4747,7 +4747,7 @@ tbody.collapse.in {
   color: #fff;
   text-decoration: none;
   outline: 0;
-  background-color: #456;
+  background-color: #445566;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_dropdowns\.scss}line{font-family:\00003101}}
@@ -4788,7 +4788,7 @@ tbody.collapse.in {
 .dropdown-header {
   display: block;
   padding: 3px 20px;
-  font-size: 12px;
+  font-size: 11px;
   line-height: 1.42857;
   color: #777777;
   white-space: nowrap;
@@ -5131,7 +5131,7 @@ tbody.collapse.in {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_input-groups\.scss}line{font-family:\0000373}}
 .input-group-addon {
   padding: 6px 12px;
-  font-size: 14px;
+  font-size: 12px;
   font-weight: normal;
   line-height: 1;
   color: #555555;
@@ -5145,7 +5145,7 @@ tbody.collapse.in {
 .input-group-sm > .input-group-addon,
 .input-group-sm > .input-group-btn > .input-group-addon.btn {
   padding: 5px 10px;
-  font-size: 12px;
+  font-size: 11px;
   border-radius: 2px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_input-groups\.scss}line{font-family:\0000390}}
@@ -5153,7 +5153,7 @@ tbody.collapse.in {
 .input-group-lg > .input-group-addon,
 .input-group-lg > .input-group-btn > .input-group-addon.btn {
   padding: 10px 16px;
-  font-size: 18px;
+  font-size: 15px;
   border-radius: 2px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_input-groups\.scss}line{font-family:\0000397}}
@@ -5275,7 +5275,7 @@ tbody.collapse.in {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_navs\.scss}line{font-family:\0000359}}
 .nav .nav-divider {
   height: 1px;
-  margin: 9px 0;
+  margin: 7.5px 0;
   overflow: hidden;
   background-color: #e5e5e5;
 }
@@ -5328,7 +5328,7 @@ tbody.collapse.in {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_navs\.scss}line{font-family:\00003131}}
 .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
   color: #fff;
-  background-color: #456;
+  background-color: #445566;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_navs\.scss}line{font-family:\00003144}}
@@ -5426,7 +5426,7 @@ tbody.collapse.in {
 .navbar {
   position: relative;
   min-height: 50px;
-  margin-bottom: 20px;
+  margin-bottom: 17px;
   border: 1px solid transparent;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/mixins\/_clearfix\.scss}line{font-family:\0000314}}
@@ -5585,9 +5585,9 @@ tbody.collapse.in {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_navbar\.scss}line{font-family:\00003164}}
 .navbar-brand {
   float: left;
-  padding: 15px 15px;
-  font-size: 18px;
-  line-height: 20px;
+  padding: 16.5px 15px;
+  font-size: 15px;
+  line-height: 17px;
   height: 50px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_navbar\.scss}line{font-family:\00003171}}
@@ -5642,13 +5642,13 @@ tbody.collapse.in {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_navbar\.scss}line{font-family:\00003233}}
 .navbar-nav {
-  margin: 7.5px -15px;
+  margin: 8.25px -15px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_navbar\.scss}line{font-family:\00003236}}
 .navbar-nav > li > a {
   padding-top: 10px;
   padding-bottom: 10px;
-  line-height: 20px;
+  line-height: 17px;
 }
 @media (max-width: 767px) {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_navbar\.scss}line{font-family:\00003244}}
@@ -5668,7 +5668,7 @@ tbody.collapse.in {
   }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_navbar\.scss}line{font-family:\00003256}}
   .navbar-nav .open .dropdown-menu > li > a {
-    line-height: 20px;
+    line-height: 17px;
   }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_navbar\.scss}line{font-family:\00003258}}
   .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-nav .open .dropdown-menu > li > a:focus {
@@ -5687,8 +5687,8 @@ tbody.collapse.in {
   }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_navbar\.scss}line{font-family:\00003273}}
   .navbar-nav > li > a {
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 16.5px;
+    padding-bottom: 16.5px;
   }
 }
 
@@ -5701,8 +5701,8 @@ tbody.collapse.in {
   border-bottom: 1px solid transparent;
   -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(255, 255, 255, 0.1);
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(255, 255, 255, 0.1);
-  margin-top: 8px;
-  margin-bottom: 8px;
+  margin-top: 9.5px;
+  margin-bottom: 9.5px;
 }
 @media (min-width: 768px) {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_forms\.scss}line{font-family:\00003423}}
@@ -5804,13 +5804,13 @@ tbody.collapse.in {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_navbar\.scss}line{font-family:\00003342}}
 .navbar-btn {
-  margin-top: 8px;
-  margin-bottom: 8px;
+  margin-top: 9.5px;
+  margin-bottom: 9.5px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_navbar\.scss}line{font-family:\00003345}}
 .navbar-btn.btn-sm, .btn-group-sm > .navbar-btn.btn {
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-top: 11px;
+  margin-bottom: 11px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_navbar\.scss}line{font-family:\00003348}}
 .navbar-btn.btn-xs, .btn-group-xs > .navbar-btn.btn {
@@ -5820,8 +5820,8 @@ tbody.collapse.in {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_navbar\.scss}line{font-family:\00003358}}
 .navbar-text {
-  margin-top: 15px;
-  margin-bottom: 15px;
+  margin-top: 16.5px;
+  margin-bottom: 16.5px;
 }
 @media (min-width: 768px) {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_navbar\.scss}line{font-family:\00003358}}
@@ -6061,7 +6061,7 @@ tbody.collapse.in {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_breadcrumbs\.scss}line{font-family:\000036}}
 .breadcrumb {
   padding: 8px 15px;
-  margin-bottom: 20px;
+  margin-bottom: 17px;
   list-style: none;
   background-color: #f6f6f6;
   border-radius: 2px;
@@ -6085,7 +6085,7 @@ tbody.collapse.in {
 .pagination {
   display: inline-block;
   padding-left: 0;
-  margin: 20px 0;
+  margin: 17px 0;
   border-radius: 2px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_pagination\.scss}line{font-family:\0000310}}
@@ -6123,8 +6123,8 @@ tbody.collapse.in {
 .pagination > li > span:hover,
 .pagination > li > span:focus {
   color: #fff;
-  background-color: #456;
-  border-color: #456;
+  background-color: #445566;
+  border-color: #445566;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_pagination\.scss}line{font-family:\0000351}}
 .pagination > .active > a, .pagination > .active > a:hover, .pagination > .active > a:focus,
@@ -6133,8 +6133,8 @@ tbody.collapse.in {
 .pagination > .active > span:focus {
   z-index: 2;
   color: #fff;
-  background-color: #456;
-  border-color: #456;
+  background-color: #445566;
+  border-color: #445566;
   cursor: default;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_pagination\.scss}line{font-family:\0000363}}
@@ -6154,7 +6154,7 @@ tbody.collapse.in {
 .pagination-lg > li > a,
 .pagination-lg > li > span {
   padding: 10px 16px;
-  font-size: 18px;
+  font-size: 15px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/mixins\/_pagination\.scss}line{font-family:\0000311}}
 .pagination-lg > li:first-child > a,
@@ -6173,7 +6173,7 @@ tbody.collapse.in {
 .pagination-sm > li > a,
 .pagination-sm > li > span {
   padding: 5px 10px;
-  font-size: 12px;
+  font-size: 11px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/mixins\/_pagination\.scss}line{font-family:\0000311}}
 .pagination-sm > li:first-child > a,
@@ -6191,7 +6191,7 @@ tbody.collapse.in {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_pager\.scss}line{font-family:\000036}}
 .pager {
   padding-left: 0;
-  margin: 20px 0;
+  margin: 17px 0;
   list-style: none;
   text-align: center;
 }
@@ -6221,7 +6221,7 @@ tbody.collapse.in {
 .pager li > a:hover,
 .pager li > a:focus {
   text-decoration: none;
-  background-color: #456;
+  background-color: #445566;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_pager\.scss}line{font-family:\0000331}}
 .pager .next > a,
@@ -6284,7 +6284,7 @@ a.label:hover, a.label:focus {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_labels\.scss}line{font-family:\0000348}}
 .label-primary {
-  background-color: #456;
+  background-color: #445566;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/mixins\/_labels\.scss}line{font-family:\000037}}
 .label-primary[href]:hover, .label-primary[href]:focus {
@@ -6332,7 +6332,7 @@ a.label:hover, a.label:focus {
   display: inline-block;
   min-width: 10px;
   padding: 3px 7px;
-  font-size: 12px;
+  font-size: 11px;
   font-weight: bold;
   color: #fff;
   line-height: 1;
@@ -6388,7 +6388,7 @@ a.badge:hover, a.badge:focus {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_jumbotron\.scss}line{font-family:\0000316}}
 .jumbotron p {
   margin-bottom: 15px;
-  font-size: 21px;
+  font-size: 18px;
   font-weight: 200;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_jumbotron\.scss}line{font-family:\0000322}}
@@ -6416,7 +6416,7 @@ a.badge:hover, a.badge:focus {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_jumbotron\.scss}line{font-family:\0000343}}
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 63px;
+    font-size: 54px;
   }
 }
 
@@ -6424,7 +6424,7 @@ a.badge:hover, a.badge:focus {
 .thumbnail {
   display: block;
   padding: 4px;
-  margin-bottom: 20px;
+  margin-bottom: 17px;
   line-height: 1.42857;
   background-color: #f3f3f3;
   border: 1px solid #ddd;
@@ -6458,7 +6458,7 @@ a.thumbnail.active {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_alerts\.scss}line{font-family:\000039}}
 .alert {
   padding: 15px;
-  margin-bottom: 20px;
+  margin-bottom: 17px;
   border: 1px solid transparent;
   border-radius: 2px;
 }
@@ -6574,10 +6574,8 @@ a.thumbnail.active {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_progress-bars\.scss}line{font-family:\0000326}}
 .progress {
   overflow: hidden;
-  height: 20px;
-  margin-bottom: 20px;
+  height: 17px;
   background-color: #f5f5f5;
-  border-radius: 2px;
   -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
   box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
 }
@@ -6587,11 +6585,11 @@ a.thumbnail.active {
   float: left;
   width: 0%;
   height: 100%;
-  font-size: 12px;
-  line-height: 20px;
+  font-size: 11px;
+  line-height: 17px;
   color: #fff;
   text-align: center;
-  background-color: #456;
+  background-color: #445566;
   -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
   box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
   -webkit-transition: width 0.6s ease;
@@ -6779,8 +6777,8 @@ a.list-group-item:hover, a.list-group-item:focus {
 .list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {
   z-index: 2;
   color: #fff;
-  background-color: #456;
-  border-color: #456;
+  background-color: #445566;
+  border-color: #445566;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_list-group\.scss}line{font-family:\0000398}}
 .list-group-item.active .list-group-item-heading,
@@ -6915,7 +6913,7 @@ a.list-group-item-danger.active, a.list-group-item-danger.active:hover, a.list-g
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_panels\.scss}line{font-family:\000037}}
 .panel {
-  margin-bottom: 20px;
+  margin-bottom: 17px;
   background-color: #fff;
   border: 1px solid transparent;
   border-radius: 2px;
@@ -6953,7 +6951,7 @@ a.list-group-item-danger.active, a.list-group-item-danger.active:hover, a.list-g
 .panel-title {
   margin-top: 0;
   margin-bottom: 0;
-  font-size: 16px;
+  font-size: 14px;
   color: inherit;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_panels\.scss}line{font-family:\0000339}}
@@ -7168,7 +7166,7 @@ a.list-group-item-danger.active, a.list-group-item-danger.active:hover, a.list-g
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_panels\.scss}line{font-family:\00003212}}
 .panel-group {
-  margin-bottom: 20px;
+  margin-bottom: 17px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_panels\.scss}line{font-family:\00003216}}
 .panel-group .panel {
@@ -7203,8 +7201,8 @@ a.list-group-item-danger.active, a.list-group-item-danger.active:hover, a.list-g
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/mixins\/_panels\.scss}line{font-family:\000036}}
 .panel-default > .panel-heading {
-  color: #767676;
-  background-color: #f6f6f6;
+  color: #fff;
+  background-color: #445566;
   border-color: #e9e9e9;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/mixins\/_panels\.scss}line{font-family:\0000311}}
@@ -7213,8 +7211,8 @@ a.list-group-item-danger.active, a.list-group-item-danger.active:hover, a.list-g
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/mixins\/_panels\.scss}line{font-family:\0000314}}
 .panel-default > .panel-heading .badge {
-  color: #f6f6f6;
-  background-color: #767676;
+  color: #445566;
+  background-color: #fff;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/mixins\/_panels\.scss}line{font-family:\0000320}}
 .panel-default > .panel-footer + .panel-collapse > .panel-body {
@@ -7223,26 +7221,26 @@ a.list-group-item-danger.active, a.list-group-item-danger.active:hover, a.list-g
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_panels\.scss}line{font-family:\00003247}}
 .panel-primary {
-  border-color: #456;
+  border-color: #445566;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/mixins\/_panels\.scss}line{font-family:\000036}}
 .panel-primary > .panel-heading {
   color: #fff;
-  background-color: #456;
-  border-color: #456;
+  background-color: #445566;
+  border-color: #445566;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/mixins\/_panels\.scss}line{font-family:\0000311}}
 .panel-primary > .panel-heading + .panel-collapse > .panel-body {
-  border-top-color: #456;
+  border-top-color: #445566;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/mixins\/_panels\.scss}line{font-family:\0000314}}
 .panel-primary > .panel-heading .badge {
-  color: #456;
+  color: #445566;
   background-color: #fff;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/mixins\/_panels\.scss}line{font-family:\0000320}}
 .panel-primary > .panel-footer + .panel-collapse > .panel-body {
-  border-bottom-color: #456;
+  border-bottom-color: #445566;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_panels\.scss}line{font-family:\00003250}}
@@ -7404,7 +7402,7 @@ a.list-group-item-danger.active, a.list-group-item-danger.active:hover, a.list-g
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/bootstrap\/bootstrap\/_close\.scss}line{font-family:\000036}}
 .close {
   float: right;
-  font-size: 21px;
+  font-size: 18px;
   font-weight: bold;
   line-height: 1;
   color: #000;
@@ -7605,7 +7603,7 @@ button.close {
   z-index: 1070;
   display: block;
   visibility: visible;
-  font-size: 12px;
+  font-size: 11px;
   line-height: 1.4;
   opacity: 0;
   filter: alpha(opacity=0);
@@ -7726,7 +7724,7 @@ button.close {
   display: none;
   max-width: 276px;
   padding: 1px;
-  font-size: 14px;
+  font-size: 12px;
   font-weight: normal;
   line-height: 1.42857;
   text-align: left;
@@ -7760,7 +7758,7 @@ button.close {
 .popover-title {
   margin: 0;
   padding: 8px 14px;
-  font-size: 14px;
+  font-size: 12px;
   background-color: #f7f7f7;
   border-bottom: 1px solid #ebebeb;
   border-radius: 1px 1px 0 0;
@@ -8471,13 +8469,13 @@ body {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_scaffolding\.scss}line{font-family:\000037}}
 ::selection {
-  background: #456;
+  background: #445566;
   color: #fff;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_scaffolding\.scss}line{font-family:\0000311}}
 ::-moz-selection {
-  background: #456;
+  background: #445566;
   color: #fff;
 }
 
@@ -8507,7 +8505,7 @@ span.block {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_scaffolding\.scss}line{font-family:\0000337}}
 .bg-primary {
-  background-color: #456;
+  background-color: #445566;
   color: #fff;
 }
 
@@ -8593,7 +8591,7 @@ span.block {
 .gradient-text {
   font-size: 150px;
   font-weight: 300;
-  color: #456;
+  color: #445566;
   background: -webkit-linear-gradient(92deg, #fb83fa, #00aced);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -8606,7 +8604,7 @@ span.block {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_type\.scss}line{font-family:\0000316}}
 .text-normal {
-  font-size: 14px;
+  font-size: 12px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_type\.scss}line{font-family:\0000317}}
@@ -8621,22 +8619,22 @@ span.block {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_type\.scss}line{font-family:\0000319}}
 .size-h1 {
-  font-size: 36px;
+  font-size: 31px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_type\.scss}line{font-family:\0000320}}
 .size-h2 {
-  font-size: 30px;
+  font-size: 25px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_type\.scss}line{font-family:\0000321}}
 .size-h3 {
-  font-size: 24px;
+  font-size: 21px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_type\.scss}line{font-family:\0000322}}
 .size-h4 {
-  font-size: 18px;
+  font-size: 15px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_type\.scss}line{font-family:\0000323}}
@@ -8651,7 +8649,7 @@ span.block {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_type\.scss}line{font-family:\0000327}}
 .color-primary {
-  color: #456;
+  color: #445566;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_type\.scss}line{font-family:\0000330}}
@@ -8718,18 +8716,18 @@ span.block {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_type\.scss}line{font-family:\0000378}}
 .dropcap.colored {
-  color: #456;
+  color: #445566;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_type\.scss}line{font-family:\0000382}}
 .dropcap-square.colored,
 .dropcap-circle.colored {
-  background-color: #456;
+  background-color: #445566;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_type\.scss}line{font-family:\0000389}}
 .highlight {
-  background-color: #456;
+  background-color: #445566;
   color: #fff;
   -moz-border-radius: 3px;
   -webkit-border-radius: 3px;
@@ -8812,13 +8810,13 @@ span.block {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_tables\.scss}line{font-family:\0000330}}
 .table-dynamic .table-bordered thead th .glyphicon-chevron-up:hover,
 .table-dynamic .table-bordered thead th .glyphicon-chevron-down:hover {
-  color: #456;
+  color: #445566;
   cursor: pointer;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_tables\.scss}line{font-family:\0000334}}
 .table-dynamic .table-bordered thead th .glyphicon-chevron-up.active,
 .table-dynamic .table-bordered thead th .glyphicon-chevron-down.active {
-  color: #456;
+  color: #445566;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_tables\.scss}line{font-family:\0000339}}
 .table-dynamic .table-bordered thead th .fa-angle-up,
@@ -8831,13 +8829,13 @@ span.block {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_tables\.scss}line{font-family:\0000346}}
 .table-dynamic .table-bordered thead th .fa-angle-up:hover,
 .table-dynamic .table-bordered thead th .fa-angle-down:hover {
-  color: #456;
+  color: #445566;
   cursor: pointer;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_tables\.scss}line{font-family:\0000350}}
 .table-dynamic .table-bordered thead th .fa-angle-up.active,
 .table-dynamic .table-bordered thead th .fa-angle-down.active {
-  color: #456;
+  color: #445566;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_tables\.scss}line{font-family:\0000356}}
 .table-dynamic .table-bordered thead th .glyphicon-chevron-up,
@@ -8979,7 +8977,7 @@ span.block {
 .ui-radio {
   position: relative;
   margin: 0 20px 10px 20px;
-  font-size: 14px;
+  font-size: 12px;
   line-height: 20px;
   height: 20px;
 }
@@ -8989,7 +8987,7 @@ span.block {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_form-checkbox_radio\.scss}line{font-family:\0000312}}
 .ui-radio input[type="radio"] + span:hover:before {
-  border-color: #456;
+  border-color: #445566;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_form-checkbox_radio\.scss}line{font-family:\0000316}}
 .ui-radio input[type="radio"]:disabled + span:hover {
@@ -9034,7 +9032,7 @@ span.block {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_form-checkbox_radio\.scss}line{font-family:\0000356}}
 .ui-radio input[type="radio"]:checked + span:before {
-  border-color: #456;
+  border-color: #445566;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_form-checkbox_radio\.scss}line{font-family:\0000359}}
 .ui-radio input[type="radio"]:checked + span:after {
@@ -9044,7 +9042,7 @@ span.block {
   position: absolute;
   top: 6px;
   left: -14px;
-  background-color: #456;
+  background-color: #445566;
   border-radius: 50%;
   display: block;
 }
@@ -9070,7 +9068,7 @@ span.block {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_form-checkbox_radio\.scss}line{font-family:\0000387}}
 .ui-checkbox input[type="checkbox"] + span:hover:before {
-  border-color: #456;
+  border-color: #445566;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_form-checkbox_radio\.scss}line{font-family:\0000391}}
 .ui-checkbox input[type="checkbox"]:disabled + span:hover {
@@ -9113,7 +9111,7 @@ span.block {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_form-checkbox_radio\.scss}line{font-family:\00003127}}
 .ui-checkbox input[type="checkbox"]:checked + span:before {
-  border: 1px solid #456;
+  border: 1px solid #445566;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_form-checkbox_radio\.scss}line{font-family:\00003130}}
 .ui-checkbox input[type="checkbox"]:checked + span:after {
@@ -9121,9 +9119,9 @@ span.block {
   width: 8px;
   height: 8px;
   position: absolute;
-  top: 7px;
+  top: 5px;
   left: -15px;
-  background-color: #456;
+  background-color: #445566;
   display: block;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_form-checkbox_radio\.scss}line{font-family:\00003141}}
@@ -9374,7 +9372,7 @@ See README.md or https://github.com/fraywing/textAngular/wiki for requirements a
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_form-elements\.scss}line{font-family:\0000338}}
 .ui-rating .glyphicon-star {
-  color: #456;
+  color: #445566;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_form-elements\.scss}line{font-family:\0000342}}
 .ui-rating.ui-rating-success .glyphicon-star {
@@ -9403,7 +9401,7 @@ See README.md or https://github.com/fraywing/textAngular/wiki for requirements a
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_form-input\.scss}line{font-family:\0000310}}
 .form-control:focus {
-  border-color: #456;
+  border-color: #445566;
   -moz-box-shadow: none;
   -webkit-box-shadow: none;
   box-shadow: none;
@@ -9422,11 +9420,11 @@ See README.md or https://github.com/fraywing/textAngular/wiki for requirements a
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_form-input\.scss}line{font-family:\0000327}}
 input.input-primary {
-  border-color: #456;
+  border-color: #445566;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_form-input\.scss}line{font-family:\0000329}}
 input.input-primary:focus {
-  border-color: #456;
+  border-color: #445566;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_form-input\.scss}line{font-family:\0000333}}
@@ -9611,9 +9609,9 @@ input.input-danger:focus {
 .switch :checked + i {
   padding-right: 0;
   padding-left: 25px;
-  -moz-box-shadow: inset 0 0 1px rgba(0, 0, 0, 0.5), inset 0 0 50px #456;
-  -webkit-box-shadow: inset 0 0 1px rgba(0, 0, 0, 0.5), inset 0 0 50px #456;
-  box-shadow: inset 0 0 1px rgba(0, 0, 0, 0.5), inset 0 0 50px #456;
+  -moz-box-shadow: inset 0 0 1px rgba(0, 0, 0, 0.5), inset 0 0 50px #445566;
+  -webkit-box-shadow: inset 0 0 1px rgba(0, 0, 0, 0.5), inset 0 0 50px #445566;
+  box-shadow: inset 0 0 1px rgba(0, 0, 0, 0.5), inset 0 0 50px #445566;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_form-switch\.scss}line{font-family:\0000330}}
@@ -9697,12 +9695,12 @@ input.input-danger:focus {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_buttons\.scss}line{font-family:\000038}}
 .btn-line-primary:hover, .btn-line-primary:focus, .btn-line-primary:active, .btn-line-primary.active {
   color: #fff;
-  background-color: #456;
+  background-color: #445566;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_buttons\.scss}line{font-family:\0000316}}
 .open .btn-line-primary.dropdown-toggle {
   color: #fff;
-  background-color: #456;
+  background-color: #445566;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_buttons\.scss}line{font-family:\0000339}}
@@ -9944,11 +9942,6 @@ input.input-danger:focus {
 }
 
 /*==========  animations  ==========*/
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_animation\.scss}line{font-family:\0000330}}
-html {
-  overflow: hidden;
-}
-
 @-webkit-keyframes fade-up-enter {
   0% {
     opacity: 0;
@@ -10029,7 +10022,7 @@ html {
     -webkit-transform: translateY(-20px);
   }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_animation\.scss}line{font-family:\0000359}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_animation\.scss}line{font-family:\0000356}}
 .animate-fade-up.ng-enter {
   -webkit-animation: 0.35s fade-up-enter;
   -moz-animation: 0.35s fade-up-enter;
@@ -10117,7 +10110,7 @@ html {
     opacity: 0;
   }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_animation\.scss}line{font-family:\0000388}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_animation\.scss}line{font-family:\0000385}}
 .animate-flip-y.ng-enter {
   -webkit-animation: 0.5s animate-flip-y-enter;
   -moz-animation: 0.5s animate-flip-y-enter;
@@ -10125,7 +10118,7 @@ html {
   animation: 0.5s animate-flip-y-enter;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_animation\.scss}line{font-family:\0000391}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_animation\.scss}line{font-family:\0000388}}
 .animate-flip-y.ng-leave {
   -webkit-animation: 0.5s animate-flip-y-leave;
   -moz-animation: 0.5s animate-flip-y-leave;
@@ -10205,7 +10198,7 @@ html {
     transform: translateY(-2000px);
   }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_animation\.scss}line{font-family:\00003117}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_animation\.scss}line{font-family:\00003114}}
 .animate-vertical-slide.ng-hide-add {
   -webkit-animation: 0.35s slideOutUp ease-in-out;
   -moz-animation: 0.35s slideOutUp ease-in-out;
@@ -10213,7 +10206,7 @@ html {
   animation: 0.35s slideOutUp ease-in-out;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_animation\.scss}line{font-family:\00003120}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_animation\.scss}line{font-family:\00003117}}
 .animate-vertical-slide.ng-hide-remove {
   -webkit-animation: 0.35s 0.35s slideInDown ease-in-out;
   -moz-animation: 0.35s 0.35s slideInDown ease-in-out;
@@ -10223,7 +10216,7 @@ html {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_badges\.scss}line{font-family:\000035}}
 .badge-primary {
-  background-color: #456;
+  background-color: #445566;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_badges\.scss}line{font-family:\000039}}
@@ -10302,22 +10295,22 @@ html {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_breadcrumbs\.scss}line{font-family:\0000348}}
 .breadcrumb-alt > li > a:hover, .breadcrumb-alt > li > a.active {
   text-decoration: none;
-  background-color: #456;
+  background-color: #445566;
   color: #fff;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_breadcrumbs\.scss}line{font-family:\0000353}}
 .breadcrumb-alt > li > a:hover:before, .breadcrumb-alt > li > a.active:before {
-  border-color: #456 #456 #456 transparent;
+  border-color: #445566 #445566 #445566 transparent;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_breadcrumbs\.scss}line{font-family:\0000356}}
 .breadcrumb-alt > li > a:hover:after, .breadcrumb-alt > li > a.active:after {
-  border-left: 1em solid #456;
+  border-left: 1em solid #445566;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_callout\.scss}line{font-family:\000031}}
 .callout {
-  margin: 20px 0;
-  padding: 20px;
+  margin: 10px 0;
+  padding: 6px;
   border-left: 3px solid #eee;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_callout\.scss}line{font-family:\000036}}
@@ -10343,7 +10336,7 @@ html {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_callout\.scss}line{font-family:\0000325}}
 .callout-info {
   background-color: #f4f8fa;
-  border-color: #2EC1CC;
+  border-color: #445566;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_callout\.scss}line{font-family:\0000329}}
 .callout-info h4 {
@@ -10377,7 +10370,7 @@ html {
   color: #fafafa;
   padding: .3em .4em;
   border: 0;
-  font-size: 12px;
+  font-size: 11px;
   border-radius: 2px;
 }
 
@@ -10429,15 +10422,15 @@ html {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_dropdowns\.scss}line{font-family:\0000345}}
 .dropdown-menu.with-arrow.panel-default:after {
-  border-bottom: 7px solid #f6f6f6;
+  border-bottom: 7px solid #445566;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_dropdowns\.scss}line{font-family:\0000350}}
 .dropdown-menu.with-arrow.panel-primary:before {
-  border-bottom: 8px solid #456;
+  border-bottom: 8px solid #445566;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_dropdowns\.scss}line{font-family:\0000353}}
 .dropdown-menu.with-arrow.panel-primary:after {
-  border-bottom: 7px solid #456;
+  border-bottom: 7px solid #445566;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_dropdowns\.scss}line{font-family:\0000358}}
 .dropdown-menu.with-arrow.panel-success:before {
@@ -10530,7 +10523,7 @@ img.img80_80 {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_list-group\.scss}line{font-family:\0000316}}
 .list-info li .icon {
   margin-right: 10px;
-  color: #456;
+  color: #445566;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_list-group\.scss}line{font-family:\0000321}}
 .list-info li label {
@@ -10543,8 +10536,8 @@ img.img80_80 {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_mail\.scss}line{font-family:\000038}}
 .mail-categories .list-group .list-group-item.active > a {
-  border-left: 3px solid #456;
-  color: #456;
+  border-left: 3px solid #445566;
+  color: #445566;
   background-color: #fafafa;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_mail\.scss}line{font-family:\0000315}}
@@ -10559,8 +10552,8 @@ img.img80_80 {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_mail\.scss}line{font-family:\0000320}}
 .mail-categories .list-group .list-group-item > a:hover {
-  border-left: 3px solid #456;
-  color: #456;
+  border-left: 3px solid #445566;
+  color: #445566;
   background-color: #fafafa;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_mail\.scss}line{font-family:\0000326}}
@@ -10571,7 +10564,7 @@ img.img80_80 {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_mail\.scss}line{font-family:\0000330}}
 .mail-categories .list-group .list-group-item > a > i.fa-circle {
-  font-size: 14px;
+  font-size: 12px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_mail\.scss}line{font-family:\0000338}}
 .mail-categories .list-group-item.active,
@@ -10676,7 +10669,7 @@ img.img80_80 {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_panels\.scss}line{font-family:\000037}}
 .panel .panel-title {
-  font-size: 14px;
+  font-size: 12px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_panels\.scss}line{font-family:\0000314}}
@@ -10928,7 +10921,7 @@ img.img80_80 {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_pricing-tables\.scss}line{font-family:\0000366}}
 .pricing-table.pricing-table-primary .pricing-price {
-  background-color: #456;
+  background-color: #445566;
   border-bottom: 3px solid #34414e;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_pricing-tables\.scss}line{font-family:\0000372}}
@@ -11242,7 +11235,6 @@ img.img80_80 {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_progress-bars\.scss}line{font-family:\000032}}
 .progress {
-  border-radius: 50px;
   -moz-box-shadow: none;
   -webkit-box-shadow: none;
   box-shadow: none;
@@ -11258,7 +11250,7 @@ img.img80_80 {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_progress-bars\.scss}line{font-family:\0000312}}
 .progressbar-xs {
-  height: 10px;
+  height: 2px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_tab\.scss}line{font-family:\000033}}
@@ -11272,7 +11264,7 @@ img.img80_80 {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_tab\.scss}line{font-family:\0000311}}
 .ui-tab-container .nav-tabs {
-  background-color: #f6f6f6;
+  background-color: #445566;
   border-bottom: 1px solid #e9e9e9;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_tab\.scss}line{font-family:\0000314}}
@@ -11302,8 +11294,8 @@ img.img80_80 {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_tab\.scss}line{font-family:\0000341}}
 .ui-tab-container .nav-tabs > li > a:hover {
-  background-color: #f1f1f1;
-  border: 1px solid #f1f1f1;
+  background-color: #405060;
+  border: 1px solid #405060;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/ui\/components\/_tab\.scss}line{font-family:\0000349}}
 .ui-tab-container .tab-content {
@@ -11433,7 +11425,7 @@ img.img80_80 {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_bootstrap-slider\.scss}line{font-family:\00003101}}
 .slider-selection {
   position: absolute;
-  background-color: #456;
+  background-color: #445566;
   box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -11751,7 +11743,7 @@ button.toast-close-button {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_toastr\.scss}line{font-family:\00003155}}
 .toast-info {
-  background-color: #26a2ab;
+  background-color: #445566;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_toastr\.scss}line{font-family:\00003158}}
@@ -11914,7 +11906,7 @@ button.toast-close-button {
   display: block;
   width: auto;
   margin: 0 0.5em 0.5em;
-  padding: 1em 1em;
+  padding: 0.3em 1em;
   text-decoration: none;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
@@ -11934,7 +11926,7 @@ button.toast-close-button {
 .wizard > .steps .current a,
 .wizard > .steps .current a:hover,
 .wizard > .steps .current a:active {
-  background: #456;
+  background: #445566;
   color: #fff;
   cursor: default;
 }
@@ -11943,7 +11935,7 @@ button.toast-close-button {
 .wizard > .steps .done a,
 .wizard > .steps .done a:hover,
 .wizard > .steps .done a:active {
-  background: #456;
+  background: #445566;
   color: #fff;
   opacity: .6;
 }
@@ -11961,7 +11953,7 @@ button.toast-close-button {
   background-color: #eee;
   display: block;
   margin: 0.5em;
-  min-height: 25em;
+  min-height: 16em;
   overflow: hidden;
   position: relative;
   width: auto;
@@ -11973,7 +11965,6 @@ button.toast-close-button {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003175}}
 .wizard > .content > .body {
   float: left;
-  position: absolute;
   width: 95%;
   height: 95%;
   padding: 2.5%;
@@ -12008,26 +11999,35 @@ button.toast-close-button {
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003212}}
+.wizard > .content > .body input[type="radio"] {
+  display: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003217}}
 .wizard > .content > .body input.error {
   background: #fbe3e4;
   border: 1px solid #fbc2c4;
   color: #8a1f11;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003219}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003224}}
 .wizard > .content > .body label {
   display: inline-block;
   margin-bottom: 0.5em;
 }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003229}}
+.wizard > .content > .body label.vertical {
+  display: block;
+}
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003225}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003234}}
 .wizard > .content > .body label.error {
   color: #8a1f11;
   display: inline-block;
   margin-left: 1.5em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003232}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003241}}
 .wizard > .actions {
   position: relative;
   display: block;
@@ -12035,7 +12035,7 @@ button.toast-close-button {
   width: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003240}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003249}}
 .wizard.vertical > .actions {
   display: inline;
   float: right;
@@ -12043,27 +12043,27 @@ button.toast-close-button {
   width: 95%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003248}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003257}}
 .wizard > .actions > ul {
   display: inline-block;
   text-align: right;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003254}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003263}}
 .wizard > .actions > ul > li {
   margin: 0 0.5em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003259}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003268}}
 .wizard.vertical > .actions > ul > li {
   margin: 0 0 0 1em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003264}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003273}}
 .wizard > .actions a,
 .wizard > .actions a:hover,
 .wizard > .actions a:active {
-  background: #456;
+  background: #445566;
   color: #fff;
   display: block;
   padding: 0.5em 1em;
@@ -12073,7 +12073,7 @@ button.toast-close-button {
   border-radius: 2px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003279}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003288}}
 .wizard > .actions .disabled a,
 .wizard > .actions .disabled a:hover,
 .wizard > .actions .disabled a:active {
@@ -12084,14 +12084,14 @@ button.toast-close-button {
 /*
     Tabcontrol
 */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003301}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003310}}
 .tabcontrol > .steps {
   position: relative;
   display: block;
   width: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003308}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003317}}
 .tabcontrol > .steps > ul {
   position: relative;
   margin: 6px 0 0 0;
@@ -12099,7 +12099,7 @@ button.toast-close-button {
   z-index: 1;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003316}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003325}}
 .tabcontrol > .steps > ul > li {
   float: left;
   margin: 5px 2px 0 0;
@@ -12112,14 +12112,14 @@ button.toast-close-button {
   border-top-right-radius: 2px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003330}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003339}}
 .tabcontrol > .steps > ul > li:hover {
   background: #edecec;
   border: 1px solid #bbb;
   padding: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003337}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003346}}
 .tabcontrol > .steps > ul > li.current {
   background: #fff;
   border: 1px solid #bbb;
@@ -12128,7 +12128,7 @@ button.toast-close-button {
   margin-top: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003346}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003355}}
 .tabcontrol > .steps > ul > li > a {
   color: #5f5f5f;
   display: inline-block;
@@ -12138,17 +12138,17 @@ button.toast-close-button {
   text-decoration: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003356}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003365}}
 .tabcontrol > .steps > ul > li > a:hover {
   text-decoration: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003361}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003370}}
 .tabcontrol > .steps > ul > li.current > a {
   padding: 15px 30px 10px 30px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003366}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003375}}
 .tabcontrol > .content {
   position: relative;
   display: inline-block;
@@ -12159,7 +12159,7 @@ button.toast-close-button {
   padding-top: 20px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003377}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003386}}
 .tabcontrol > .content > .body {
   float: left;
   position: absolute;
@@ -12168,12 +12168,12 @@ button.toast-close-button {
   padding: 2.5%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003386}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003395}}
 .tabcontrol > .content > .body ul {
   list-style: disc !important;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003391}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/plugins\/_jquery-steps\.scss}line{font-family:\00003400}}
 .tabcontrol > .content > .body ul > li {
   display: list-item;
 }
@@ -12247,7 +12247,7 @@ button.toast-close-button {
   -moz-transition: width 350ms;
   -o-transition: width 350ms;
   transition: width 350ms;
-  background-color: #456;
+  background-color: #445566;
   position: fixed;
   z-index: 10002;
   top: 0;
@@ -12267,7 +12267,7 @@ button.toast-close-button {
   top: 0;
   height: 2px;
   opacity: .45;
-  box-shadow: #456 1px 0 6px 1px;
+  box-shadow: #445566 1px 0 6px 1px;
   -moz-border-radius: 100%;
   -webkit-border-radius: 100%;
   border-radius: 100%;
@@ -12287,8 +12287,8 @@ button.toast-close-button {
   width: 14px;
   height: 14px;
   border: solid 2px transparent;
-  border-top-color: #456;
-  border-left-color: #456;
+  border-top-color: #445566;
+  border-left-color: #445566;
   border-radius: 10px;
   -webkit-animation: loading-bar-spinner 400ms linear infinite;
   -moz-animation: loading-bar-spinner 400ms linear infinite;
@@ -12374,25 +12374,25 @@ button.toast-close-button {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/pages\/_err\.scss}line{font-family:\000039}}
 .page-err .err-status h1 {
-  margin: 100px 0 -45px;
-  color: #456;
-  font-size: 200px;
+  margin: 100px 0 -29px;
+  color: #445566;
+  font-size: 140px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/pages\/_err\.scss}line{font-family:\0000315}}
 .page-err .err-message {
-  background-color: #456;
+  background-color: #445566;
   padding: 24px;
   text-transform: uppercase;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/pages\/_err\.scss}line{font-family:\0000319}}
 .page-err .err-message h2 {
-  font-size: 50px;
+  font-size: 20px;
   color: #fff;
   font-weight: 300;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/pages\/_err\.scss}line{font-family:\0000326}}
 .page-err .err-body {
-  padding: 100px 10px 20px;
+  padding: 30px 10px 20px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/pages\/_err\.scss}line{font-family:\0000330}}
 .page-err .btn-goback {
@@ -12452,7 +12452,7 @@ button.toast-close-button {
   -moz-border-radius-bottomleft: 2px;
   -webkit-border-bottom-left-radius: 2px;
   border-bottom-left-radius: 2px;
-  color: #456;
+  color: #445566;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/pages\/_lock-screen\.scss}line{font-family:\0000352}}
 .page-lock .lock-box .lock-img img {
@@ -12488,7 +12488,7 @@ button.toast-close-button {
   -moz-border-radius-bottomright: 2px;
   -webkit-border-bottom-right-radius: 2px;
   border-bottom-right-radius: 2px;
-  color: #456;
+  color: #445566;
 }
 @media screen and (min-width: 768px) {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/pages\/_lock-screen\.scss}line{font-family:\0000369}}
@@ -12813,6 +12813,11 @@ button.toast-close-button {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/pages\/_ui\.scss}line{font-family:\0000383}}
 .weather-icons .example:hover .wi {
   font-size: 3em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/pages\/_ui\.scss}line{font-family:\0000389}}
+#main {
+  padding: 20px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/pages\/_demo\.scss}line{font-family:\000033}}
@@ -13353,7 +13358,7 @@ button.toast-close-button {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/sections\/_header\.scss}line{font-family:\00003182}}
 .top-header .top-nav .nav-left > li ul.dropdown-menu a:hover,
 .top-header .top-nav .nav-right > li ul.dropdown-menu a:hover {
-  background-color: #456;
+  background-color: #445566;
   color: #fff;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/rodolfoterra\/jobs\/nuclear\/nuclear\/client\/styles\/sections\/_header\.scss}line{font-family:\00003187}}

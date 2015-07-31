@@ -98,7 +98,9 @@
 // divider
 .divider {
     display: block;
-    height: 10px;
+    height: 1px;
+    margin: 15px 0;
+    border-bottom: 1px solid #ddd;
 }
 .divider-sm {
     height: 15px;
